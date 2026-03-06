@@ -1,7 +1,7 @@
 import React from 'react'
 import { FaMinus } from "react-icons/fa";
 import { FaPlus } from "react-icons/fa6";
-import iphone from '../../images/Iphone-small.png'
+import iphone from '../../images/iphone-small.png'
 import headphone from '../../images/menu2airpods.png'
 import watch from '../../images/menu2applewatch.png'
 import { AiOutlineClose } from "react-icons/ai";
