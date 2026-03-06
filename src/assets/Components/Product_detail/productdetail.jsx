@@ -22,7 +22,7 @@ import garentee from "../../images/garentee-details.png";
 import nigIphone from "../../images/IphoneBig.png";
 import smallIphone from "../../images/Iphone-small.png";
 import smallIphone2 from "../../images/iphone-small2.png";
-import smallIphone3 from "../../images/Iphone-small4.png";
+import smallIphone3 from "../../images/iphone-small4.png";
 import smallIphone4 from "../../images/iphone-small3.png";
 
 import userPic from "../../images/User-Pic1.png";
